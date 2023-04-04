@@ -1,5 +1,5 @@
-a=30
-b=10
+a=3
+b=1
 
 print("value of a before swap:", a)
 print("value of a before swap:", b)
